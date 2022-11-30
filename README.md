@@ -2,6 +2,13 @@
 
 - 👋 Hi, I’m @240db
 - 👀 I work as a data scientist sponsored by Thompson Research (brief literature)
+- :musical_note: :musical_keyboard: :microphone: :musical_score: Original music and technology
+- :video_game: Game dev, simulations, hardware
+
+
+## :trophy: Awards  
+| Award Name | Date | 
+| Max Matthews Award | March 2nd 2015 | 
 
 
 ## Kaggle Competitions currently involved 
@@ -24,6 +31,8 @@
 - Just about anything 
 
 ## 📫 How to reach me ...
+
+Languages :fr: :en: :br
 
 Peek at 
 https://reifier.cc/cvonline
