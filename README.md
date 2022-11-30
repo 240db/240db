@@ -10,6 +10,10 @@ https://user-images.githubusercontent.com/28659434/204871790-593f3903-d4cb-4b5c-
 - :video_game: I develop BI software, games, hardware and much more 
 
 
+https://user-images.githubusercontent.com/28659434/204902574-803f6204-69b6-47cb-954e-9a5b85edd9c7.mp4
+
+
+
 ## Kaggle Competitions currently involved 
 
 | Competition Name | Deadline | Category | Award |
