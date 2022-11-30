@@ -10,20 +10,41 @@ https://user-images.githubusercontent.com/28659434/204871790-593f3903-d4cb-4b5c-
 - 👋 Hi, I’m @240db
 - 👀 I work as a data scientist in research/development sponsored by Institute Thompson Research (brief literature). 
 - :musical_note: :musical_keyboard: :microphone: :musical_score: I make original music and technology
-- :video_game: I develop BI software, games, hardware and much more 
 
-![DeltaPrinterAutolevelFirmwareDev_Oldie](https://user-images.githubusercontent.com/28659434/204909722-e350d19b-0437-4c8f-a9ab-e98f0691b699.gif)![orca](https://user-images.githubusercontent.com/28659434/204904712-641cc82f-dc5e-4ada-b35b-b22d14763095.gif)
+## Currently developing 💻
 
+**Game Dev Pipeline** :video_game: 
+- I develop  games, render graphics, supportive pipeline and technology for interactive audiovisual experience.
+
+<img src="https://user-images.githubusercontent.com/28659434/204904712-641cc82f-dc5e-4ada-b35b-b22d14763095.gif" width="700">
 
 https://user-images.githubusercontent.com/28659434/204902574-803f6204-69b6-47cb-954e-9a5b85edd9c7.mp4
 
-
-
 https://user-images.githubusercontent.com/28659434/204903750-414c9a7f-89cf-4cbf-a938-7f254be00266.mp4
 
-
-
 https://user-images.githubusercontent.com/28659434/204904227-1638b8ba-c4f5-4732-944b-7f16ea26004e.mp4
+
+**BI software** 📊💼
+
+**Hardware** 🤖
+
+3D printers
+
+<img src="https://user-images.githubusercontent.com/28659434/204909722-e350d19b-0437-4c8f-a9ab-e98f0691b699.gif" width="600">![DeltaPrinterAutolevelFirmwareDev_Oldie](https://user-images.githubusercontent.com/28659434/204909722-e350d19b-0437-4c8f-a9ab-e98f0691b699.gif)
+
+
+
+Arm low powered solutions in data acquisition and analytics, real time processing
+
+
+![](prototype_hidden.JPG)
+
+
+
+
+
+
+
 
 
 ## Kaggle Competitions currently involved 
