@@ -2,15 +2,9 @@
 
 - 👋 Hi, I’m @240db
 - 👀 I work as a data scientist sponsored by Thompson Research (brief literature)
-- :musical_note: :musical_keyboard: :microphone: :musical_score: Original music and technology
-- :video_game: Game dev, simulations, hardware
+- :musical_note: :musical_keyboard: :microphone: :musical_score: I make original music and technology
+- :video_game: I develop BI software, games, hardware and much more 
 
-
-## :trophy: Awards  
-
-| Award Name | Date | 
-| ------------- | ------------- |
-| Max Matthews Award | March 2nd 2015 | 
 
 
 ## Kaggle Competitions currently involved 
@@ -19,6 +13,11 @@
 | ------------- | ------------- | ------------- | ------------- |
 | nfl-big-data-bowl-2023  | 2023-01-09 23:59:00 | Analytics | $100,000 |
 | g2net-detecting-continuous-gravitational-waves | 2023-01-03 23:59:00 | Research | $25,000 |
+
+## :trophy: Awards  
+| Award Name | Date | 
+| ------------- | ------------- |
+| Max Matthews Award | March 2nd 2015 | 
 
 
 ### 🌱 I’m currently learning ...
@@ -34,7 +33,10 @@
 
 ## 📫 How to reach me ...
 
-Languages :fr: :en: :br
+Languages 
+:fr: French
+:en: English
+:br: Portuguese
 
 Peek at 
 https://reifier.cc/cvonline
