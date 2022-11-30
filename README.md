@@ -5,7 +5,7 @@ https://user-images.githubusercontent.com/28659434/204871790-593f3903-d4cb-4b5c-
 
 
 - 👋 Hi, I’m @240db
-- 👀 I work as a data scientist sponsored by Thompson Research (brief literature)
+- 👀 I work as a data scientist in research/development sponsored by Institute Thompson Research (brief literature). 
 - :musical_note: :musical_keyboard: :microphone: :musical_score: I make original music and technology
 - :video_game: I develop BI software, games, hardware and much more 
 
