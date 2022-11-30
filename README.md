@@ -6,7 +6,6 @@
 - :video_game: I develop BI software, games, hardware and much more 
 
 
-
 ## Kaggle Competitions currently involved 
 
 | Competition Name | Deadline | Category | Award |
@@ -15,6 +14,7 @@
 | g2net-detecting-continuous-gravitational-waves | 2023-01-03 23:59:00 | Research | $25,000 |
 
 ## :trophy: Awards  
+
 | Award Name | Date | 
 | ------------- | ------------- |
 | Max Matthews Award | March 2nd 2015 | 
@@ -34,9 +34,9 @@
 ## 📫 How to reach me ...
 
 Languages 
-:fr: French
-:en: English
-:br: Portuguese
+🇫🇷 French
+🇬🇧 English
+🇧🇷 Portuguese
 
 Peek at 
 https://reifier.cc/cvonline
