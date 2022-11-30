@@ -12,6 +12,7 @@ https://user-images.githubusercontent.com/28659434/204871790-593f3903-d4cb-4b5c-
 - :musical_note: :musical_keyboard: :microphone: :musical_score: I make original music and technology
 - :video_game: I develop BI software, games, hardware and much more 
 
+![orca90percentlightrayscam12f15](https://user-images.githubusercontent.com/28659434/204905103-3d5ece53-3e94-4087-8efe-4adeb83f658f.jpg)
 
 https://user-images.githubusercontent.com/28659434/204902574-803f6204-69b6-47cb-954e-9a5b85edd9c7.mp4
 
