@@ -12,6 +12,7 @@ https://user-images.githubusercontent.com/28659434/204871790-593f3903-d4cb-4b5c-
 - :musical_note: :musical_keyboard: :microphone: :musical_score: I make original music and technology
 - :video_game: I develop BI software, games, hardware and much more 
 
+![DeltaPrinterAutolevelFirmwareDev_Oldie](https://user-images.githubusercontent.com/28659434/204909722-e350d19b-0437-4c8f-a9ab-e98f0691b699.gif)
 
 
 https://user-images.githubusercontent.com/28659434/204902574-803f6204-69b6-47cb-954e-9a5b85edd9c7.mp4
