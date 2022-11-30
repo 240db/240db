@@ -1,5 +1,9 @@
 ## 240dB Developer 
 
+
+https://user-images.githubusercontent.com/28659434/204871790-593f3903-d4cb-4b5c-831b-cea3ccdf8f15.mp4
+
+
 - 👋 Hi, I’m @240db
 - 👀 I work as a data scientist sponsored by Thompson Research (brief literature)
 - :musical_note: :musical_keyboard: :microphone: :musical_score: I make original music and technology
