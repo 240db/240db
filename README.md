@@ -69,10 +69,7 @@ Arm low powered solutions in data acquisition and analytics, real time processin
 
 
 
-
-
-
-
+![IMG_1876](https://user-images.githubusercontent.com/28659434/204993683-d168491d-7070-4d31-be38-5cb555865ba0.JPG)![IMG_1896](https://user-images.githubusercontent.com/28659434/204993870-c60d1c6d-8fc9-47d1-ad20-334f6096b66d.JPG)![IMG_8661](https://user-images.githubusercontent.com/28659434/204993888-c4c2a396-1eff-483e-9c2d-6ec026564a96.JPG)![IMG_1889](https://user-images.githubusercontent.com/28659434/204993948-1800629a-7a94-4514-9bfc-78f961f84fa9.JPG)
 
 
 ## Kaggle Competitions currently involved 
