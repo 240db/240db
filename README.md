@@ -50,6 +50,10 @@ https://user-images.githubusercontent.com/28659434/204966130-3c86857a-8d8c-4aea-
 
 **Hardware** 🤖
 
+Neuromarketing OpenBCI
+
+![CB5F1419-648B-4A31-A370-BA4F884AC021](https://user-images.githubusercontent.com/28659434/204994419-61155da2-c021-45d3-8a27-c19794a2a983.JPG)
+
 3D printers
 
 <img src="https://user-images.githubusercontent.com/28659434/204909722-e350d19b-0437-4c8f-a9ab-e98f0691b699.gif" width="600">![DeltaPrinterAutolevelFirmwareDev_Oldie](https://user-images.githubusercontent.com/28659434/204909722-e350d19b-0437-4c8f-a9ab-e98f0691b699.gif)
@@ -70,6 +74,9 @@ Arm low powered solutions in data acquisition and analytics, real time processin
 
 
 ![IMG_1876](https://user-images.githubusercontent.com/28659434/204993683-d168491d-7070-4d31-be38-5cb555865ba0.JPG)![IMG_1896](https://user-images.githubusercontent.com/28659434/204993870-c60d1c6d-8fc9-47d1-ad20-334f6096b66d.JPG)![IMG_8661](https://user-images.githubusercontent.com/28659434/204993888-c4c2a396-1eff-483e-9c2d-6ec026564a96.JPG)![IMG_1889](https://user-images.githubusercontent.com/28659434/204993948-1800629a-7a94-4514-9bfc-78f961f84fa9.JPG)
+
+![IMG_1991](https://user-images.githubusercontent.com/28659434/204994328-3c5f020b-7ccc-4f11-aadc-907bc9749642.JPG)
+![IMG_1926](https://user-images.githubusercontent.com/28659434/204994339-0f60a7b0-f19b-4904-9f4f-0b45eaf78ec7.JPG)
 
 
 ## Kaggle Competitions currently involved 
