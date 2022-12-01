@@ -32,8 +32,13 @@ https://user-images.githubusercontent.com/28659434/204904227-1638b8ba-c4f5-4732-
 
 <img src="https://user-images.githubusercontent.com/28659434/204909722-e350d19b-0437-4c8f-a9ab-e98f0691b699.gif" width="600">![DeltaPrinterAutolevelFirmwareDev_Oldie](https://user-images.githubusercontent.com/28659434/204909722-e350d19b-0437-4c8f-a9ab-e98f0691b699.gif)
 
-![FDM was ez but could one make a lcd_printer from smartphone repair consumables](https://user-images.githubusercontent.com/28659434/204944060-2fc5c558-d534-44ba-a05a-03f806adec6e.JPG)
+**FDM was easy but could one make a lcd_printer from smartphone repair consumables**
+![](https://user-images.githubusercontent.com/28659434/204944060-2fc5c558-d534-44ba-a05a-03f806adec6e.JPG)
 
+I certainly modified mine with 
+
+- a reinforced duct exhaust vent system
+- Resin automatic fill with pumps 
 
 Arm low powered solutions in data acquisition and analytics, real time processing
 
