@@ -7,7 +7,7 @@
 
 https://user-images.githubusercontent.com/28659434/204871790-593f3903-d4cb-4b5c-831b-cea3ccdf8f15.mp4
 
-![NickDevPreferredLanguagesDistribution](https://user-images.githubusercontent.com/28659434/204962000-a5820bc4-92cd-400f-ab4d-ce1077e89bd7.png)
+
 
 - 👋 Hi, I’m @240db
 - 👀 I work as a data scientist in research/development sponsored by Institute Thompson Research (brief literature). 
@@ -83,6 +83,8 @@ Arm low powered solutions in data acquisition and analytics, real time processin
 ## 💞️ I’m looking to collaborate on ...
 
 - Just about anything 
+
+![NickDevPreferredLanguagesDistribution](https://user-images.githubusercontent.com/28659434/204962000-a5820bc4-92cd-400f-ab4d-ce1077e89bd7.png)
 
 ## 📫 How to reach me ...
 
