@@ -33,6 +33,17 @@ https://user-images.githubusercontent.com/28659434/204904227-1638b8ba-c4f5-4732-
 
 **BI software** 📊💼
 
+
+
+https://user-images.githubusercontent.com/28659434/204965737-eb8e091e-0411-4990-b14a-51f443c1c1bd.mp4
+
+
+https://user-images.githubusercontent.com/28659434/204965744-79d76825-b439-466d-892e-e9e3cbcb2eaa.mp4
+
+
+
+
+
 **Hardware** 🤖
 
 3D printers
