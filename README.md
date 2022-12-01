@@ -11,6 +11,10 @@ https://user-images.githubusercontent.com/28659434/204871790-593f3903-d4cb-4b5c-
 - 👀 I work as a data scientist in research/development sponsored by Institute Thompson Research (brief literature). 
 - :musical_note: :musical_keyboard: :microphone: :musical_score: I make original music and technology
 
+![map12](https://user-images.githubusercontent.com/28659434/204946595-f870b457-8425-4c3a-aa58-ac192c5fac9e.gif)![map1](https://user-images.githubusercontent.com/28659434/204946608-e8baf0b9-e14a-4f3e-8812-3a7f5592ea67.gif)
+
+
+
 ## Currently developing 💻
 
 **Game Dev Pipeline** :video_game: 
