@@ -84,7 +84,9 @@ Arm low powered solutions in data acquisition and analytics, real time processin
 | Competition Name | Deadline | Category | Award |
 | ------------- | ------------- | ------------- | ------------- |
 | nfl-big-data-bowl-2023  | 2023-01-09 23:59:00 | Analytics | $100,000 |
-| g2net-detecting-continuous-gravitational-waves | 2023-01-03 23:59:00 | Research | $25,000 |
+
+<!-- Past competitions -->
+<!--| g2net-detecting-continuous-gravitational-waves | 2023-01-03 23:59:00 | Research | $25,000 |-->
 
 ## :trophy: Awards  
 
